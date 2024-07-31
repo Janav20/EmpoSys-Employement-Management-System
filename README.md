@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
     ```bash
     git clone https://github.com/Janav20/EmpoSys-Employement-Management-System.git
-    cd employee-management-system
+    cd EmpoSys-Employement-Management-System-main
     ```
 
 2. **Set Up the Database**
