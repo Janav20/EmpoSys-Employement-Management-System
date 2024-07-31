@@ -2,7 +2,12 @@
 
 ## Overview
 
-The Employee Management System is a comprehensive solution for managing employee data. It includes features for adding, updating, deleting, and searching employee information. The system is built using Python's Tkinter library for the GUI and MySQL for the database.
+The Employee Management System is a comprehensive solution for managing employee data. It includes features for adding, updating, deleting, and searching employee information. The system is built using Python's Tkinter library for the GUI and MySQL for the database.  
+
+
+![Screenshot](empo.png)
+
+
 
 ## Features
 
@@ -80,9 +85,6 @@ Before you begin, ensure you have met the following requirements:
 - Select an employee from the table to update or delete their information.
 - Use the search functionality to find employees by specific criteria.
 
-## Screenshots
-
-![Screenshot](path/to/your/screenshot.png)
 
 ## Contributing
 
@@ -94,4 +96,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact me at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or suggestions, please feel free to contact me at [shettyjanavl@example.com](shettyjanavl@example.com).
