@@ -86,14 +86,6 @@ Before you begin, ensure you have met the following requirements:
 - Use the search functionality to find employees by specific criteria.
 
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
 If you have any questions or suggestions, please feel free to contact me at [shettyjanav@example.com](shettyjanav@example.com).
