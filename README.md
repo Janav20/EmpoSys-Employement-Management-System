@@ -30,7 +30,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/employee-management-system.git
+    git clone https://github.com/Janav20/EmpoSys-Employement-Management-System.git
     cd employee-management-system
     ```
 
